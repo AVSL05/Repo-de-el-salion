@@ -1,6 +1,6 @@
 print("Hola a todos :D")
 print("Esto es una prueba")
-
+print("ola soy ashton")
 
  def resolver_ecuacion():
      print("Resuelve la siguiente ecuación simple: 5 + 3 = ?")
@@ -14,3 +14,4 @@ print("Esto es una prueba")
  
  # Llamar a la función para resolver la ecuación
  resolver_ecuacion()
+ main
